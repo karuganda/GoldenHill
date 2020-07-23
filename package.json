@@ -1,0 +1,16 @@
+{
+  "name": "homeland",
+  "version": "1.0.0",
+  "description": "to sale houses in Rwanda",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karuganda Frank",
+  "license": "ISC"
+}
